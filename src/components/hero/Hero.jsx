@@ -260,6 +260,7 @@ const Hero = () => {
                   fill="none"
                   d="M 100,100 m -60,0 a 60,60 0 1,1 120,0 a 60,60 0 1,1 -120,0"
                 />
+
                 <text className="circleText">
                   <textPath href="#innerCirclePath">Hire Now •</textPath>
                 </text>
